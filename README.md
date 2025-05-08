@@ -61,10 +61,11 @@ You can compare the Markdown files to analyze the content quality across models.
   ollama pull gemma
   ollama pull deepseek-r1
   ```
+- Python libraries
 
-## 📦 Setup
-
-```pip install ollama pydantic python-dotenv``
+  ```
+  pip install ollama pydantic python-dotenv
+  ```
 
 Script uses standard libraries like os, time, asyncio, and pathlib.
 
